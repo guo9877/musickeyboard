@@ -1,0 +1,16 @@
+{
+    "groups": {
+        "钢琴": {
+            "key_mappings": {}
+        },
+        "鼓点": {
+            "key_mappings": {}
+        },
+        "音效": {
+            "key_mappings": {}
+        }
+    },
+    "active_group": "钢琴",
+    "volume": 0.7,
+    "auto_start": false
+}
